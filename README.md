@@ -21,12 +21,16 @@ What does it does ?
 
 
 pdf-generator-app/
+
 │
 ├── backend/
+
 │   └── app.py
 │
 ├── frontend/
+
 │   └── index.html
+
 │
 └── requirements.txt
 
